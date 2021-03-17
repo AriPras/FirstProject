@@ -1,2 +1,2 @@
 # FirstProject
-Trial Project by AriPrasestya
+Trial Project by AriPrasetya
